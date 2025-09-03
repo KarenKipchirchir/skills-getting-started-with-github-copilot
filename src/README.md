@@ -1,4 +1,4 @@
-# Mergington High School Activities API
+# Bomboclaat High School Activities API
 
 A super simple FastAPI application that allows students to view and sign up for extracurricular activities.
 
@@ -30,7 +30,7 @@ A super simple FastAPI application that allows students to view and sign up for 
 | Method | Endpoint                                                          | Description                                                         |
 | ------ | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
 | GET    | `/activities`                                                     | Get all activities with their details and current participant count |
-| POST   | `/activities/{activity_name}/signup?email=student@mergington.edu` | Sign up for an activity                                             |
+| POST   | `/activities/{activity_name}/signup?email=student@Bomboclaat.edu` | Sign up for an activity                                             |
 
 ## Data Model
 
