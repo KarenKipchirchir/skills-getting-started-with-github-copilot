@@ -19,7 +19,7 @@ header {
   text-align: center;
   padding: 20px 0;
   margin-bottom: 30px;
-  background-color: #1a237e;
+  background-color: #8e94da;
   color: white;
   border-radius: 5px;
 }
@@ -94,7 +94,7 @@ section h3 {
 }
 
 button {
-  background-color: #1a237e;
+  background-color: #c76a13;
   color: white;
   border: none;
   padding: 10px 15px;
@@ -105,7 +105,7 @@ button {
 }
 
 button:hover {
-  background-color: #3949ab;
+  background-color: #27bb2e;
 }
 
 .message {
